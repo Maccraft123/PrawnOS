@@ -23,3 +23,9 @@ Coming Soon™:
 
 
 Currently only tested on armhf hardware, but if anyone donates a aarch64/arm64 laptop I will include support for it.
+
+Donations (irc nicks):
+- samnob
+- rak-zero
+- MistahDarcy
+
